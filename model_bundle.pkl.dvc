@@ -1,0 +1,5 @@
+outs:
+- md5: f4bd4ac550e8c32b8238f16ed67c0ab5
+  size: 461030
+  hash: md5
+  path: model_bundle.pkl
